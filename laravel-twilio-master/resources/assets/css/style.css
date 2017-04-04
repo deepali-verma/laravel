@@ -1,0 +1,9 @@
+.msg-panel {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 3px 2px 5px #cac6c6;
+}
+.msg-panel  h2{ margin:0 0 35px 0; text-transform:capitalize; }
